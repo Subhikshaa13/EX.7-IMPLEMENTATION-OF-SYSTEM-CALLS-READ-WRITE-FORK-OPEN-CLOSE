@@ -3,6 +3,7 @@
 AIM:
 
 C program using open, read, write, close , create , fork() system calls
+
 ALGORITHM:
 
 Start the program.
